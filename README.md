@@ -1,8 +1,6 @@
 # The Starting Point for Next-Generation Threat Intelligence Analysis Focusing on CTI Data Sources and Datasets
 
-## Universal Framework for Constructing Threat Intelligence Analysis Datasets
-<div>
-</div>
+
 
 ## CTI Sharing Standards/Frameworks
 <table style="display: grid; place-items: center; width: 100%; overflow: auto;">
